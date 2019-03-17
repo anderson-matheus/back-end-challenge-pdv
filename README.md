@@ -20,5 +20,5 @@ python3 run.py<br />
 pytest tests.py
 
 ## Documentação da API
-Link com os endpoits da API: https://web.postman.co/collections/1164449-813d512a-132f-4fae-b80c-a380fa188ff3<br />
-<a href="https://web.postman.co/collections/1164449-813d512a-132f-4fae-b80c-a380fa188ff3" target="_blank">Documentação</a>
+Link com os endpoits da API: https://documenter.getpostman.com/view/1164449/S17nVWS5<br />
+<a href="https://documenter.getpostman.com/view/1164449/S17nVWS5" target="_blank">Documentação</a>
