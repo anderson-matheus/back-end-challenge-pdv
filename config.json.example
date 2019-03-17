@@ -1,0 +1,13 @@
+{
+    "mongodb":{
+        "host":"localhost",
+        "user":"root",
+        "passwd":"",
+        "port": 27017,
+        "db":"backend_challenge_pdv"
+    },
+    "mongodb_mock": {
+      "host":"localhost",
+      "db":"backend_challenge_pdv_mock"
+    }
+}
